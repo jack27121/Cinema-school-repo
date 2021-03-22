@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethodClass", "ExtensionMethodClass\ExtensionMethodClass.csproj", "{E6923658-C0FF-4547-AFAB-CCEB2C3743DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mandag", "..\ConsoleApp1\ConsoleApp1\mandag.csproj", "{242394E0-B1EB-45B8-BCD9-7DFACC27F123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6923658-C0FF-4547-AFAB-CCEB2C3743DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6923658-C0FF-4547-AFAB-CCEB2C3743DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6923658-C0FF-4547-AFAB-CCEB2C3743DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6923658-C0FF-4547-AFAB-CCEB2C3743DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242394E0-B1EB-45B8-BCD9-7DFACC27F123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242394E0-B1EB-45B8-BCD9-7DFACC27F123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242394E0-B1EB-45B8-BCD9-7DFACC27F123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242394E0-B1EB-45B8-BCD9-7DFACC27F123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523942D1-290F-45E9-B593-33AE8D612837}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\Work\school\databaseprogrammering\ExtensionMethodClass\ExtensionMethodClass\bin\Debug\netcoreapp3.1\ExtensionMethodClass.deps.json
+D:\Work\school\databaseprogrammering\ExtensionMethodClass\ExtensionMethodClass\bin\Debug\netcoreapp3.1\ExtensionMethodClass.dll
+D:\Work\school\databaseprogrammering\ExtensionMethodClass\ExtensionMethodClass\bin\Debug\netcoreapp3.1\ExtensionMethodClass.pdb
+D:\Work\school\databaseprogrammering\ExtensionMethodClass\ExtensionMethodClass\obj\Debug\netcoreapp3.1\ExtensionMethodClass.AssemblyInfoInputs.cache
+D:\Work\school\databaseprogrammering\ExtensionMethodClass\ExtensionMethodClass\obj\Debug\netcoreapp3.1\ExtensionMethodClass.AssemblyInfo.cs
+D:\Work\school\databaseprogrammering\ExtensionMethodClass\ExtensionMethodClass\obj\Debug\netcoreapp3.1\ExtensionMethodClass.dll
+D:\Work\school\databaseprogrammering\ExtensionMethodClass\ExtensionMethodClass\obj\Debug\netcoreapp3.1\ExtensionMethodClass.pdb
+D:\Work\school\databaseprogrammering\ExtensionMethodClass\ExtensionMethodClass\obj\Debug\netcoreapp3.1\ExtensionMethodClass.csprojAssemblyReference.cache
