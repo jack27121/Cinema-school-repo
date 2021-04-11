@@ -1,1 +1,8 @@
 <p>home works!</p>
+<div *ngIf="movies">
+  <div class="container">
+    <a class="item" *ngFor="let movie of movies">
+      <img src="{{movie.image_path}}">
+    </a>
+  </div>
+</div>
